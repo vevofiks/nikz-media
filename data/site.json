@@ -1,0 +1,171 @@
+{
+  "agency": {
+    "name": "NIKZ Media",
+    "tagline": "Create • Connect • Grow",
+    "positioning": "Creative Digital Marketing Agency",
+    "email": "nikzmedia26@gmail.com",
+    "phoneDisplay": "+91 8921586552",
+    "phoneTel": "+918921586552",
+    "whatsapp": "https://wa.me/918921586552",
+    "address": "Pottananickal Building, Opposite SH Medical Centre Hospital, Nagampadom P.O., Kottayam, Kerala – 686001, India.",
+    "city": "Kottayam, Kerala",
+    "siteUrl": "https://nikzmedia.com"
+  },
+  "aboutCopy": "NIKZ Media is a creative digital marketing agency focused on helping businesses build a strong online presence and grow their brands. Our mission is to help businesses connect with their target audience through creative strategies, innovative ideas, and result-driven digital marketing solutions. We believe in creativity, consistency, and delivering measurable results for our clients.",
+  "seo": {
+    "title": "NIKZ Media | Creative Digital Marketing Agency",
+    "description": "NIKZ Media is a creative digital marketing agency in Kottayam, Kerala. Brand, content, digital marketing, websites. Create, connect, and grow."
+  },
+  "serviceGroups": [
+    {
+      "id": "digital",
+      "index": "01",
+      "title": "Digital Marketing",
+      "line": "Social, search, Meta ads, Google ads",
+      "items": [
+        {
+          "name": "Social Media Marketing",
+          "summary": "Social media management, content planning, audience engagement, and consistent brand communication."
+        },
+        {
+          "name": "Search Engine Optimization (SEO)",
+          "summary": "Improving website visibility through relevant search engine optimization practices."
+        },
+        {
+          "name": "Meta Ads (Facebook & Instagram Ads)",
+          "summary": "Targeted advertising campaigns across Facebook and Instagram to reach relevant audiences."
+        },
+        {
+          "name": "Google Ads",
+          "summary": "Paid search and display campaigns connecting businesses with people actively searching for relevant products and services."
+        }
+      ]
+    },
+    {
+      "id": "creative",
+      "index": "02",
+      "title": "Creative & Content",
+      "line": "Content, design, reels, production",
+      "items": [
+        {
+          "name": "Content Creation",
+          "summary": "Developing engaging, platform-native content that communicates a brand's message across digital channels."
+        },
+        {
+          "name": "Graphic Design",
+          "summary": "Crafting visual communication materials that maintain sharp brand consistency."
+        },
+        {
+          "name": "Video Editing & Reels Production",
+          "summary": "Dynamic video editing and short-form Reels production built for social reach and retention."
+        },
+        {
+          "name": "Video Production",
+          "summary": "End-to-end video production for brand storytelling, commercials, and digital campaigns."
+        }
+      ]
+    },
+    {
+      "id": "web",
+      "index": "03",
+      "title": "Web & Brand Development",
+      "line": "Websites and brand strategy",
+      "items": [
+        {
+          "name": "Website Design & Development",
+          "summary": "Designing and engineering modern, high-performing websites that represent a brand and convert visitors."
+        },
+        {
+          "name": "Branding & Brand Strategy",
+          "summary": "Establishing brand positioning, visual identity, and cohesive guidelines for recognizable communication."
+        }
+      ]
+    }
+  ],
+  "industries": [
+    {
+      "name": "Startups and new businesses",
+      "support": "A new business needs a name people can find and a presence that explains the offer. Brand strategy, a website, and a content rhythm are the usual starting set."
+    },
+    {
+      "name": "Small and medium-sized businesses",
+      "support": "The work is steady visibility. Social communication, search, and ads aimed at people already looking for what the business sells."
+    },
+    {
+      "name": "Real estate companies",
+      "support": "Listings and launches need clear visuals and a way to reach people who are searching now. That means property content, short-form video, and paid campaigns."
+    },
+    {
+      "name": "Educational institutions",
+      "support": "Courses and admissions have to be easy to understand. Content, design, and campaigns carry the message to prospective students."
+    },
+    {
+      "name": "Restaurants, cafes, and hotels",
+      "support": "Guests decide from photos, reels, and a page that explains the visit. Social content, short-form video, and a straightforward website."
+    },
+    {
+      "name": "Retail and e-commerce businesses",
+      "support": "Products need to be shown clearly and put in front of buyers. Content, advertising, and a site built to present the range."
+    },
+    {
+      "name": "Personal brands and entrepreneurs",
+      "support": "One point of view, repeated until it is recognisable. Identity, content, and a publishing rhythm across the channels that matter."
+    }
+  ],
+  "values": [
+    {
+      "index": "01",
+      "title": "Creativity",
+      "copy": "Strategies and ideas that give the brand a recognisable way of speaking."
+    },
+    {
+      "index": "02",
+      "title": "Consistency",
+      "copy": "A presence that keeps going, so the audience meets the same brand every time."
+    },
+    {
+      "index": "03",
+      "title": "Measurable Results",
+      "copy": "Marketing aimed at results a client can check: a clearer presence, and the enquiries that come from it."
+    }
+  ],
+  "approach": [
+    {
+      "index": "01",
+      "title": "Creative strategy",
+      "copy": "Decide the idea and the message before the posting schedule. The work starts with creative strategies and innovative ideas."
+    },
+    {
+      "index": "02",
+      "title": "Consistent presence",
+      "copy": "Social media, content, design, and video keep the brand in front of the audience on a steady rhythm."
+    },
+    {
+      "index": "03",
+      "title": "Work that can be measured",
+      "copy": "Search, ads, and the website are built toward results the client can see: visibility and enquiries."
+    }
+  ],
+  "workSlots": [
+    {
+      "index": "01",
+      "discipline": "Digital marketing",
+      "note": "Reserved for a digital marketing case study."
+    },
+    {
+      "index": "02",
+      "discipline": "Creative & content",
+      "note": "Reserved for a content and production case study."
+    },
+    {
+      "index": "03",
+      "discipline": "Websites",
+      "note": "Reserved for a website case study."
+    },
+    {
+      "index": "04",
+      "discipline": "Brand strategy",
+      "note": "Reserved for a brand strategy case study."
+    }
+  ]
+}

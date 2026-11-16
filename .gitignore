@@ -12,6 +12,9 @@
 
 # testing
 /coverage
+/playwright-report
+/test-results
+/blob-report
 
 # next.js
 /.next/
@@ -19,10 +22,15 @@
 
 # production
 /build
+/dist
 
-# misc
+# misc / OS
 .DS_Store
+Thumbs.db
+Desktop.ini
 *.pem
+*.log
+*.local
 
 # debug
 npm-debug.log*
@@ -30,12 +38,42 @@ yarn-debug.log*
 yarn-error.log*
 .pnpm-debug.log*
 
-# env files (can opt-in for committing if needed)
-.env*
+# env files (keep example)
+.env
+.env.*
+!.env.example
 
-# vercel
+# vercel / deploy
 .vercel
+.netlify
 
 # typescript
 *.tsbuildinfo
-next-env.d.ts
+
+# editor / IDE
+.idea/
+.vscode/*
+!.vscode/extensions.json
+!.vscode/settings.json
+*.swp
+*.swo
+*~
+
+# local agent / Cursor tooling (not for production repo)
+.agents/
+.cursor/
+.taste-skill/
+skills-lock.json
+
+# CMS runtime data (submitted inquiries; keep site.json tracked)
+/data/inquiries.json
+
+# personal / local-only assets
+/assets/
+/public/CBQWelcomeLetter_AMRAZ RAFEEQUE.pdf
+/public/**/*.pdf
+
+# caches
+.turbo/
+.cache/
+*.eslintcache
